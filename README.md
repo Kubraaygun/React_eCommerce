@@ -15,15 +15,15 @@ Bu proje  React ve React Router kullanarak hazırladığım basit bir e-ticaret 
 
 <h2> Özellikler</h2>
 <ul>
-<li><b>Ürün Listeleme<b></li> <br>
+<li><h4>Ürün Listeleme<h4></li> 
 <p>Ana sayfa üzerinde yer alan "Products" bağlantısına tıklandığında kullanıcıya mevcut ürünlerin listesi gösterilir. Her bir ürün, adı, detayları ve fiyatı ile birlikte kart şeklinde görüntülenir.<p>
-<li><b>Tekil Ürün Detayları<b></li><br>
+<li><h4>Tekil Ürün Detayları<h4></li>
 <p>Her bir ürün kartının üzerinde bulunan "Details" bağlantısına tıklandığında, kullanıcı ilgili ürünün detaylarını içeren özel bir sayfaya yönlendirilir. Bu sayfada ürünün büyük resmi detaylı açıklaması ve fiyatı gösterilir.<p>
-<li><b>Gönderi Listesi<b></li><br>
+<li><h4>Gönderi Listesi<h4></li>
 <p>"Gönderiler" sayfasında kullanıcıya JSONPlaceholder API üzerinden alınan gönderi listesi gösterilir. Bu gönderiler kartlar halinde, başlık ve içerik bilgileriyle birlikte görüntülenir.<p>
-<li><b>Sayfa Yönlendirme<b>/li><br>
+<li><h4>Sayfa Yönlendirme<h4><li>
 <p>Proje React Router kullanılarak sayfalar arasında gezinmeyi destekler. Ana sayfa, hakkında sayfası, ürünler sayfası, tekil ürün sayfası ve gönderiler sayfası gibi farklı rotalara sahiptir.<p>
-<li><b>Hata Sayfası<b></li><br>
+<li><h4>Hata Sayfası<h4></li>
 <p>Geçersiz bir sayfa yolu girildiğinde kullanıcıya özel bir hata sayfası gösterilir. Bu sayfada kullanıcı ana sayfaya geri dönmek için bir bağlantı bulabilir.<p>
 
 <h2> Kullanılan Teknolojiler </h2>
@@ -42,5 +42,4 @@ Bu proje  React ve React Router kullanarak hazırladığım basit bir e-ticaret 
 
 ![](./src/commerceeG.gif)
 
-
-<b></b>
+<h4>
